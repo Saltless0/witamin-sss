@@ -12,7 +12,7 @@
 
 ## DOMAIN
 
-* Domain Süresi Dolunca Ne Kadar Sürede Yenilenmelidir ?
+* [Domain Süresi Dolunca Ne Kadar Sürede Yenilenmelidir ?](domain/domain-suresi-dolunca-ne-kadar-surede-yenilenmelidir.md)
 
 ## HOSTING
 
