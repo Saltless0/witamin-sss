@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [What is XYZ?](first-question.md)
 * [How can I do X?](second-question.md)
-* [Bloklanmışım Nereden Kaldırabilirim ?](bloklanmisim-nereden-kaldirabilirim.md)
 
 ## EMAIL
 
@@ -25,4 +24,5 @@
 * [FTP Hatası Alıyorum ?](ftp-hatasi-aliyorum.md)
 * [DNS Kayıt Tiplerine Nereden Erişip Değiştirebilirim ?](dns-kayit-tiplerine-nereden-erisip-degistirebilirim.md)
 * [Sayfa İstatistiklerine Nereden Bakabilirim ?](sayfa-i-statistiklerine-nereden-bakabilirim.md)
+* [Bloklanmışım Nereden Kaldırabilirim ?](bloklanmisim-nereden-kaldirabilirim.md)
 
