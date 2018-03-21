@@ -7,6 +7,7 @@
 ## EMAIL
 
 * Mail Alamıyorum ?
+* Mail Aliyorum Ama Gönderemiyorum ?
 
 ## DOMAIN
 
