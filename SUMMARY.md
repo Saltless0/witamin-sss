@@ -21,4 +21,5 @@
 * [Cpanel Giriş Yapamıyorum ?](cpanel-giris-yapamiyorum.md)
 * [Whm Giriş Yapamıyorum ?](whm-giris-yapamiyorum.md)
 * [Server Erişemiyorum ?](server-erisemiyorum.md)
+* [FTP Hatası Alıyorum ?](ftp-hatasi-aliyorum.md)
 
