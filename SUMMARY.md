@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Bilgilendirme](bilgilendirme.md)
 
 ## EMAIL
 
