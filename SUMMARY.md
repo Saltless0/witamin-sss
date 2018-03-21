@@ -6,8 +6,8 @@
 
 ## EMAIL
 
-* Mail Alamıyorum ?
-* Mail Aliyorum Ama Gönderemiyorum ?
+* [Mail Alamıyorum ?](email/mail-alamiyorum.md)
+* [Mail Aliyorum Ama Gönderemiyorum ?](email/mail-aliyorum-ama-gonderemiyorum.md)
 
 ## DOMAIN
 
