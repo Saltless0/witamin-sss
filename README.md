@@ -1,9 +1,8 @@
-                                                                               Sıkça Sorulan Sorular \(S.S.S.\)
+                                                                                            **Sıkça Sorulan Sorular **
 
 
 
-                                                                                             [witamin.net](http://witamin.net/)
+                                                                                                    [witamin.net](http://witamin.net/)
 
-  
 
 
