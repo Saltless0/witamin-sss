@@ -11,5 +11,5 @@
 
 ## DOMAIN
 
-## HOSTİNG
+## HOSTING
 
