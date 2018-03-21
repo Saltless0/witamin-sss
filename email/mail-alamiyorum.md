@@ -10,7 +10,7 @@ Böyle bir problemle karşılaşmamanız için bizim önerimiz kesinlikle mail h
 
 * **Mail şifreniz çalınmış olabilir ve bu yüzden sistem tarafından bloklandığı için mail alamayabilirsiniz.**
 
-Bilgisayar, telefon veya tabletlerinizde muhakkak virüs tarama programı olmalı ve sıklıkla kontrol etmenizde fayda vardır. Genellikle çalınan hesaplardan spam mailler atılır ve bunu sistem tespit ederek hesabı bloklar. Bloklama kullandığınız makinadaki ip'ye yapılır. Hesabı tekrar kullanabilmeniz için sistemden ip bloğu kaldırıp sonrasında cpanelden giriş yaparak mail hesaplarından şifreyi değiştirin. Mümkün olduğunca karışık şifre kullanın ve kesinlikle bilgisayara kayıtlı olarak kullanmanızı önermeyiz. Her girişte şifre yazarak maillerinize giriş yaparsanız sizin açınızdan daha güvenli olabilir.
+Bilgisayar, telefon veya tabletlerinizde muhakkak virüs tarama programı olmalı ve sıklıkla kontrol etmenizde fayda vardır. Genellikle çalınan hesaplardan spam mailler atılır ve bunu sistem tespit ederek hesabı bloklar. Bloklama kullandığınız makinadaki ip'ye yapılır. Hesabı tekrar kullanabilmeniz için sistemden ip bloğu kaldırıp sonrasında cpanelden giriş yaparak mail hesaplarından şifreyi değiştirin. Mümkün olduğunca karışık şifre kullanın ve kesinlikle bilgisayara kayıtlı olarak kullanmanızı önermeyiz. Her girişte şifre yazarak maillerinize giriş yaparsanız sizin açınızdan daha güvenli olabilir. Bu arada bloklanıp bloklanmadığınızı öğrenmek için " [http://ips.witamin.net/\#/](http://ips.witamin.net/#/) " giriş yaparak ip'yi görebilir ve "search" butonuyla sorun olup olmadığına bakabilirsiniz.
 
 * 
 
