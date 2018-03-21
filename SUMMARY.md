@@ -12,6 +12,7 @@
 
 ## DOMAIN
 
+* [Domaini Nereden Park Edip Kaldırabilirim ?](domain/domaini-nereden-park-edip-kaldirabilirim.md)
 * [Domain Süresi Dolunca Ne Kadar Sürede Yenilenmelidir ?](domain/domain-suresi-dolunca-ne-kadar-surede-yenilenmelidir.md)
 
 ## HOSTING
