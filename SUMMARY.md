@@ -7,6 +7,7 @@
 ## EMAIL
 
 * [Mail Alamıyorum ?](email/mail-alamiyorum.md)
+* Mail Hesabı Nereden Açıp Silebilirim ?
 * [Mail Aliyorum Ama Gönderemiyorum ?](email/mail-aliyorum-ama-gonderemiyorum.md)
 
 ## DOMAIN
