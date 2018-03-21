@@ -1,8 +1,6 @@
-                                                                                  **Sıkça Sorulan Sorular **
+**SIKÇA SORULAN SORULAR**
 
 
 
-
-
-                                                                                          witamin.net
+witamin.net
 
