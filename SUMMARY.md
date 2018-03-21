@@ -18,4 +18,5 @@
 ## HOSTING
 
 * [Web Sayfama Erişemiyorum ?](web-sayfama-erisemiyorum.md)
+* [Cpanel Giriş Yapamıyorum ?](cpanel-giris-yapamiyorum.md)
 
