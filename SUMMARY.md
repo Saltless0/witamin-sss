@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [What is XYZ?](first-question.md)
 * [How can I do X?](second-question.md)
-* Web Sayfama Erişemiyorum ?
 
 ## EMAIL
 
@@ -17,4 +16,6 @@
 * [Domain Süresi Dolunca Ne Kadar Sürede Yenilenmelidir ?](domain/domain-suresi-dolunca-ne-kadar-surede-yenilenmelidir.md)
 
 ## HOSTING
+
+* [Web Sayfama Erişemiyorum ?](web-sayfama-erisemiyorum.md)
 
