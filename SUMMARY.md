@@ -21,7 +21,7 @@
 * [Server Erişemiyorum ?](server-erisemiyorum.md)
 * [FTP Hatası Alıyorum ?](ftp-hatasi-aliyorum.md)
 * [DNS Kayıt Tiplerine Nereden Erişip Değiştirebilirim ?](dns-kayit-tiplerine-nereden-erisip-degistirebilirim.md)
-* [Sayfa İstatistiklerine Nereden Bakabilirim ?](sayfa-i-statistiklerine-nereden-bakabilirim.md)
 * [Bloklanmışım Nereden Kaldırabilirim ?](bloklanmisim-nereden-kaldirabilirim.md)
 * [İP Nereden Bakabilirim ?](i-p-nereden-bakabilirim.md)
+* [Sayfa İstatistiklerine Nereden Bakabilirim ?](sayfa-i-statistiklerine-nereden-bakabilirim.md)
 
