@@ -20,4 +20,5 @@
 * [Web Sayfama Erişemiyorum ?](web-sayfama-erisemiyorum.md)
 * [Cpanel Giriş Yapamıyorum ?](cpanel-giris-yapamiyorum.md)
 * [Whm Giriş Yapamıyorum ?](whm-giris-yapamiyorum.md)
+* [Server Erişemiyorum ?](server-erisemiyorum.md)
 
