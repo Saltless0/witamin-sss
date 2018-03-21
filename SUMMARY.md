@@ -7,10 +7,12 @@
 ## EMAIL
 
 * [Mail Alamıyorum ?](email/mail-alamiyorum.md)
-* Mail Hesabı Nereden Açıp Silebilirim ?
 * [Mail Aliyorum Ama Gönderemiyorum ?](email/mail-aliyorum-ama-gonderemiyorum.md)
+* [Mail Hesabı Nereden Açıp Silebilirim ?](email/mail-hesabi-nereden-acip-silebilirim.md)
 
 ## DOMAIN
+
+* Domain Süresi Dolunca Ne Kadar Sürede Yenilenmelidir ?
 
 ## HOSTING
 
