@@ -6,15 +6,15 @@ Bunu cpanelden email başlığının altında track delivery kısmından takip e
 
 * **Mail gönderdiğiniz kişi SPF kaydını yapmadan sürekli mail attığı için kara listeye girmiş olabilir.**
 
-Bu durumda yine cpanelden email başlığının altında track delivery kısmından takip edebilirsiniz. Mailin sonucunu orada spam atıyor diye yazar. Spam gönderimi yaptığı tespit edilen IP adreslerinin tutulduğu veri tabanlarına  blacklist denir. Blacklistler firmaların kendi veritabanlarında tutulabildiği gibi tüm dünyaca kabul gören kuruluşlar tarafından da tutulur.
+Bu durumda yine cpanelden email başlığının altında track delivery kısmından takip edebilirsiniz. Mailin sonucunu orada spam atıyor diye yazar. Spam gönderimi yaptığı tespit edilen IP adreslerinin tutulduğu veri tabanlarına  blacklist denir. Blacklistler firmaların kendi veritabanlarında tutulabildiği gibi tüm dünyaca kabul gören kuruluşlar tarafından da tutulur.
 
 Bunlardan en büyükleri;
 
 **1-**Spamhaus / **2-**Spamcop / **3-**UCEPROTECT / **4-**TrendMicro / **5-**Sorbs / **6-**Barracuda
 
-Eğer gönderilen mail IP si spam kuruluşları tarafından blackliste alınmış ise ;
+**Eğer gönderilen mail IP si spam kuruluşları tarafından blackliste alınmış ise ;**
 
-**a- **Gelen mail geri çevrilir ve göndericiye hata mesajı  gönderilir.
+**a- **Gelen mail geri çevrilir ve göndericiye hata mesajı  gönderilir.
 
 **b- **Herhangi bir işleme tabi olmadan Posta Kutusu’na düşer .  
 **c- **Gelen mail işaretlenir, alıcı firma tarafından oluşturulan kurallara göre Posta Kutusu’na gönderilir.
@@ -29,13 +29,4 @@ Kara liste sorgulama yani blacklist te olup olmadığınızı aşağıdaki linkl
 4-TrendMicro :[http://www.mail-abuse.com/cgi-bin/lookup](http://www.mail-abuse.com/cgi-bin/lookup)  
 5-Sorbs :[https://www.secure.sorbs.net/scgi-bin/login](https://www.secure.sorbs.net/scgi-bin/login)  
 6-Barracuda :[http://barracudacentral.org/rbl/removal-request](http://barracudacentral.org/rbl/removal-request)
-
-  
-  
-  
-  
-  
-
-
-
 
