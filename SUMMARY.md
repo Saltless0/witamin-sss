@@ -9,6 +9,8 @@
 * [Mail Kotasını Nereden Oluşturup / Değiştirebilirim ?](email/mail-kotasini-nereden-olusturup-degistirebilirim.md)
 * [Mail Alamıyorum ?](email/mail-alamiyorum.md)
 * [Mail Gönderemiyorum ?](email/mail-aliyorum-ama-gonderemiyorum.md)
+* [Mail Sadece Bir Yerden Alamıyorum ?](email/mail-sadece-bir-yerden-alamiyorum.md)
+* [Mail Hem Alıp / Hem Gönderemiyorum ?](email/mail-hem-alip-hem-gonderemiyorum.md)
 
 ## DOMAIN
 
