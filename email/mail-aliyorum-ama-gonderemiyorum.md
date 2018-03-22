@@ -23,10 +23,10 @@ Bunlardan en büyükleri;
 
 Kara liste sorgulama yani blacklist te olup olmadığınızı aşağıdaki linklerden kontol edebilirsiniz .
 
-1-Spamhaus :[http://www.spamhaus.org/lookup/](http://www.spamhaus.org/lookup/)  
-2-Spamcop :[http://www.spamcop.net/bl.shtml](http://www.spamcop.net/bl.shtml)  
-3-UCEPROTECT :[http://www.uceprotect.net/en/rblcheck.php](http://www.uceprotect.net/en/rblcheck.php)  
-4-TrendMicro :[http://www.mail-abuse.com/cgi-bin/lookup](http://www.mail-abuse.com/cgi-bin/lookup)  
-5-Sorbs :[https://www.secure.sorbs.net/scgi-bin/login](https://www.secure.sorbs.net/scgi-bin/login)  
-6-Barracuda :[http://barracudacentral.org/rbl/removal-request](http://barracudacentral.org/rbl/removal-request)
+**1-**Spamhaus :[http://www.spamhaus.org/lookup/](http://www.spamhaus.org/lookup/)  
+**2-**Spamcop :[http://www.spamcop.net/bl.shtml](http://www.spamcop.net/bl.shtml)  
+**3-**UCEPROTECT :[http://www.uceprotect.net/en/rblcheck.php](http://www.uceprotect.net/en/rblcheck.php)  
+**4-**TrendMicro :[http://www.mail-abuse.com/cgi-bin/lookup](http://www.mail-abuse.com/cgi-bin/lookup)  
+**5-**Sorbs :[https://www.secure.sorbs.net/scgi-bin/login](https://www.secure.sorbs.net/scgi-bin/login)  
+**6-**Barracuda :[http://barracudacentral.org/rbl/removal-request](http://barracudacentral.org/rbl/removal-request)
 
