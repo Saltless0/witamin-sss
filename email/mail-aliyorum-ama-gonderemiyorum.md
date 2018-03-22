@@ -1,3 +1,7 @@
+* **Domain süresi dolup yenileme yapılamadığından veya yenileme zamanı geçtikten sonra yapılan yenilemelerden kaynaklı olabilir.**
+
+Domain süresinin bitip bitmediğini kayıtlarından kontrol edin. Yenilemesi gelen domainleri mümkün olduğunca son günden önce yenilemekte fayda vardır. Yenileme süresi geçtikten sonra yapılan yenilemelerde ise ns kayıtları düştüğü için tekrar düzeltmek gerekir. Bu arada domain uzatıldığı zaman ns kayıtları anlık çalışamayabilir bir süre sonra kendine gelecektir.
+
 * **Mail gönderdiğiniz kişinin SPF kaydı olmadığı için gri listeye düşer ve attığınız mailler karşıya ulaşmayabilir. **
 
 Bunu cpanelden email başlığının altında track delivery kısmından takip edebilirsiniz. Ulaşan ulaşmayan tüm maillerin sonucu yazmaktadır. Bu durumda sizin yapabileceğiniz pek birşey bulunmamakla birlikte bunu en fazla karşı tarafa bildirebilirsiniz. SPF kaydını oluşturduktan sonra karşı tarafın problemi çözülecektir ve mail trafiği açılacaktır.
