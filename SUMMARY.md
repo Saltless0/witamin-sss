@@ -14,13 +14,13 @@
 
 ## DOMAIN
 
-* [Domaini Nereden Park Edip Kaldırabilirim ?](domain/domaini-nereden-park-edip-kaldirabilirim.md)
 * [Domain Süresi Dolunca Ne Kadar Sürede Yenilenmelidir ?](domain/domain-suresi-dolunca-ne-kadar-surede-yenilenmelidir.md)
 
 ## CPANEL
 
 * [Cpanel Giriş Yapamıyorum ?](cpanel/cpanel-giris-yapamiyorum.md)
 * [Whm Giriş Yapamıyorum ?](cpanel/whm-giris-yapamiyorum.md)
+* [Domaini Nereden Park Edip / Kaldırabilirim ?](domain/domaini-nereden-park-edip-kaldirabilirim.md)
 * [Sayfa İstatistiklerine Nereden Bakabilirim ?](cpanel/sayfa-i-statistiklerine-nereden-bakabilirim.md)
 
 ## FTP
