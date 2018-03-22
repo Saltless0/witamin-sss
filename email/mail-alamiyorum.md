@@ -1,5 +1,3 @@
-Bu konuda farklı senaryolardan ötürü hatalarla karşılaşabiliriz.
-
 * **Domain süresi dolup yenileme yapılamadığından veya yenileme zamanı geçtikten sonra yapılan yenilemelerden kaynaklı olabilir.**
 
 Domain süresinin bitip bitmediğini kayıtlarından kontrol edin. Yenilemesi gelen domainleri mümkün olduğunca son günden önce yenilemekte fayda vardır. Yenileme süresi geçtikten sonra yapılan yenilemelerde ise ns kayıtları düştüğü için tekrar düzeltmek gerekir. Bu arada domain uzatıldığı zaman ns kayıtları anlık çalışamayabilir bir süre sonra kendine gelecektir.
