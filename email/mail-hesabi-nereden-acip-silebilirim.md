@@ -1,6 +1,6 @@
-* **Alan adına ait cpanelden giriş yaparak, email başlığı altındaki track delivery kısmından işlem yapabilirsiniz.**
+* **Alan adına ait cpanelden giriş yaparak, email başlığı altındaki email accounts kısmından işlem yapabilirsiniz.**
 
-* **Yeni bir email hesabı açmak, varolanı silmek, kotasını ayarlamak, şifre oluşturmak ve şifre değiştirmek gibi işlemleride yapabilirsiniz.**
+* **Ayrıca yeni bir email hesabı açmak, varolanı silmek, şifre oluşturmak ve şifre değiştirmek gibi işlemleride yapabilirsiniz.**
 
 
 

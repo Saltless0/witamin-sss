@@ -5,9 +5,10 @@
 
 ## EMAIL
 
-* [Mail Hesabı Nereden Açıp Silebilirim ?](email/mail-hesabi-nereden-acip-silebilirim.md)
+* [Mail Hesabı Ayarlarını Nereden Yapabilirim?](email/mail-hesabi-nereden-acip-silebilirim.md)
+* [Mail Kotasını Nereden Oluşturup / Değiştirebilirim ?](email/mail-kotasini-nereden-olusturup-degistirebilirim.md)
 * [Mail Alamıyorum ?](email/mail-alamiyorum.md)
-* [Mail Aliyorum Ama Gönderemiyorum ?](email/mail-aliyorum-ama-gonderemiyorum.md)
+* [Mail Gönderemiyorum ?](email/mail-aliyorum-ama-gonderemiyorum.md)
 
 ## DOMAIN
 
@@ -18,7 +19,6 @@
 
 * [Cpanel Giriş Yapamıyorum ?](cpanel/cpanel-giris-yapamiyorum.md)
 * [Whm Giriş Yapamıyorum ?](cpanel/whm-giris-yapamiyorum.md)
-* [DNS Kayıt Tiplerine Nereden Erişip Değiştirebilirim ?](dns/dns-kayit-tiplerine-nereden-erisip-degistirebilirim.md)
 * [Sayfa İstatistiklerine Nereden Bakabilirim ?](cpanel/sayfa-i-statistiklerine-nereden-bakabilirim.md)
 
 ## FTP
@@ -34,4 +34,8 @@
 * [Bloklanmışım Nereden Kaldırabilirim ?](genel/bloklanmisim-nereden-kaldirabilirim.md)
 * [Server Erişemiyorum ?](genel/server-erisemiyorum.md)
 * [IP Nereden Bakabilirim ?](genel/ip-nereden-bakabilirim.md)
+
+## DNS
+
+* [DNS Kayıt Tiplerine Nereden Erişip Değiştirebilirim ?](dns/dns-kayit-tiplerine-nereden-erisip-degistirebilirim.md)
 
