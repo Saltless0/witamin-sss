@@ -14,7 +14,7 @@ Bu durumda yine cpanelden email başlığının altında track delivery kısmın
 
 Bunlardan en büyükleri;
 
-**1-**Spamhaus / **2-**Spamcop / ~~**3-**UCEPROTECT~~ / ~~**4-**TrendMicro~~ / **5-**Sorbs / ~~**6-**Barracuda~~
+Spamhaus / Spamcop / Sorbs /
 
 **Eğer gönderilen mail IP si spam kuruluşları tarafından blackliste alınmış ise ;**
 
@@ -27,10 +27,8 @@ Bunlardan en büyükleri;
 
 Kara liste sorgulama yani blacklist te olup olmadığınızı aşağıdaki linklerden kontol edebilirsiniz .
 
-**1-**Spamhaus : [http://www.spamhaus.org/lookup/](http://www.spamhaus.org/lookup/)  
-**2-**Spamcop : [http://www.spamcop.net/bl.shtml](http://www.spamcop.net/bl.shtml)  
-~~**3-**UCEPROTECT : ~~[~~http://www.uceprotect.net/en/rblcheck.php~~](http://www.uceprotect.net/en/rblcheck.php)  
-~~**4-**TrendMicro : ~~[~~http://www.mail-abuse.com/cgi-bin/lookup~~](http://www.mail-abuse.com/cgi-bin/lookup)  
-**5-**Sorbs : [https://www.secure.sorbs.net/scgi-bin/login](https://www.secure.sorbs.net/scgi-bin/login)  
-~~**6-**Barracuda : ~~[~~http://barracudacentral.org/rbl/removal-request~~](http://barracudacentral.org/rbl/removal-request)
+Spamhaus : [http://www.spamhaus.org/lookup/](http://www.spamhaus.org/lookup/)  
+Spamcop   : [http://www.spamcop.net/bl.shtml](http://www.spamcop.net/bl.shtml)  
+Sorbs         : [https://www.secure.sorbs.net/scgi-bin/login](https://www.secure.sorbs.net/scgi-bin/login)  
+
 

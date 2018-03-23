@@ -6,7 +6,7 @@
 ## EMAIL
 
 * [Mail Hesabı Ayarlarını Nereden Yapabilirim?](email/mail-hesabi-nereden-acip-silebilirim.md)
-* [Mail Kotasını Nereden Oluşturup / Değiştirebilirim ?](email/mail-kotasini-nereden-olusturup-degistirebilirim.md)
+* [Mail Kotası Ayarlarını Nereden Yapabilirim ?](email/mail-kotasini-nereden-olusturup-degistirebilirim.md)
 * [Mail Alamıyorum ?](email/mail-alamiyorum.md)
 * [Mail Gönderemiyorum ?](email/mail-aliyorum-ama-gonderemiyorum.md)
 * [Mail Sadece Bir Yerden Alamıyorum ?](email/mail-sadece-bir-yerden-alamiyorum.md)
