@@ -33,7 +33,7 @@
 
 ## GENEL
 
-* [Bloklanmışım Nereden Kaldırabilirim ?](genel/bloklanmisim-nereden-kaldirabilirim.md)
+* [Bloğu Nereden Kaldırabilirim ?](genel/bloklanmisim-nereden-kaldirabilirim.md)
 * [Server Erişemiyorum ?](genel/server-erisemiyorum.md)
 * [IP Nereden Bakabilirim ?](genel/ip-nereden-bakabilirim.md)
 
