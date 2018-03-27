@@ -1,4 +1,4 @@
-Bu konuda sistem koruması en üst düzeyde olması gerektiğinden, kurallar olabildiğince katıdır ve bu olay tamamen müşteri güvenliği içindir. 
+Bu konuda sistem koruması en üst düzeyde olması gerektiğinden, kurallar olabildiğince katıdır ve bu olay tamamen müşteri güvenliği içindir.
 
 Hesap oluşturmak için; **Cpanel &gt; FTP Hesapları &gt; FTP Hesabı Ekle**
 
