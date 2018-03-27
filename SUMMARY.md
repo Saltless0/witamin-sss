@@ -33,8 +33,8 @@
 
 ## GENEL
 
-* [Bloğu Nereden Kaldırabilirim ?](genel/bloklanmisim-nereden-kaldirabilirim.md)
 * [Server Erişemiyorum ?](genel/server-erisemiyorum.md)
+* [Bloğu Nereden Kaldırabilirim ?](genel/bloklanmisim-nereden-kaldirabilirim.md)
 * [IP Nereden Bakabilirim ?](genel/ip-nereden-bakabilirim.md)
 
 ## DNS
