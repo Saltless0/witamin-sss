@@ -11,6 +11,7 @@
 * [Mail Gönderemiyorum ?](email/mail-aliyorum-ama-gonderemiyorum.md)
 * [Mail Sadece Bir Yerden Alamıyorum ?](email/mail-sadece-bir-yerden-alamiyorum.md)
 * [Mail Hem Alıp / Hem Gönderemiyorum ?](email/mail-hem-alip-hem-gonderemiyorum.md)
+* [Mail Gri Liste Nedir ?](email/mail-gri-liste-nedir.md)
 
 ## DOMAIN
 
