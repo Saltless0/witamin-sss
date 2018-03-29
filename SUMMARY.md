@@ -16,6 +16,7 @@
 ## DOMAIN
 
 * [Domain Süresi Dolunca Ne Kadar Sürede Yenilenmelidir ?](domain/domain-suresi-dolunca-ne-kadar-surede-yenilenmelidir.md)
+* [Domain Farklı Bir Firmaya Nasıl Transfer Edilir?](domain/domain-farkli-bir-firmaya-nasil-transfer-edilir.md)
 
 ## CPANEL
 
