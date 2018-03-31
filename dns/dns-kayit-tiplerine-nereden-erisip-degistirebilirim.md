@@ -1,4 +1,4 @@
-* [x] DNS kayıtlarını ve diğer kayıtları eklemek düzenlemek silmek için, **"WHM"** üzerinden **"DNS Functions"** başlığı altındaki **"Edit DNS Zone"** kısmından gerekli ayarlamaları yapabiliriz.
+* [x] DNS kayıtlarını ve diğer kayıtları eklemek düzenlemek silmek için, **"WHM"** üzerinden **"DNS Functions"** başlığı altındaki **"Edit DNS Zone"** kısmından gerekli ayarlamaları yapabiliriz. **"Cpanel"** den de giriş yaparak **"Zone Editor"** kısmından gerekli ayarları yapabilirsiniz.
 
 * ## **MX \(Mail\) kayıtları;**
 
@@ -27,10 +27,4 @@ NS kayıtları, alan adları için, geçerli sunucu isimlerini belirlemeyi sağl
 * ## **AAA \(Address Record\)**
 
 A kaydı ile aynı işi yapar yani hostnameleri ip adresleri ile eşler ama ip V6 ile kullanılmak üzere tasarlanmış bir kayıttır.
-
-  
-  
-
-
-
 
