@@ -28,7 +28,7 @@
 ## FTP
 
 * [FTP Hatası Alıyorum ?](ftp/ftp-hatasi-aliyorum.md)
-* [Windows İçin Filezilla Ftp Programını Nasıl Ayarlayabilirim ?](ftp/windows-ic-in-filezilla-ftpprogram-i-ni-nas-i-l-ayarlayabilirim.md)
+* [Filezilla Ftp Programını Nasıl Ayarlayabilirim ?](ftp/windows-ic-in-filezilla-ftpprogram-i-ni-nas-i-l-ayarlayabilirim.md)
 
 ## WEB
 
