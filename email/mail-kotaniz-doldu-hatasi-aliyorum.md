@@ -1,0 +1,11 @@
+* **Mail kotanızı kontrol etmek için cpanelden giriş yaparak, "email" başlığı altındaki "email accounts" kısmından görebilirsiniz.  "İmap" olan hesaplar genelde kota sorunu yaşamaktadır. Mümkün olduğunca "POP3" olarak hesapları kullanmaya dikkat edelim.**
+* Birde size mail kotanız dolduğuna dair bir mesaj gelip, ancak **"Cpanelden"** kontrol ettiğinizde kotanızda yer olduğu gördüğünüz zaman bilin ki hesabınızda yönlendirme yapılmıştır. \(_**Yönlendirme olup olmadığını görmek için "Cpanel" bölümünden "Email" başlığı altında "Email Routing" bölümünden kontrol edebilirsiniz**_\)Bu sizin tarafınızdan yapılıp ve unutulmuş bir yöneldirmede olabilir veya virüs vb. casus yazılımlarla **mail şifreniz** yada **cpanel şifreniz** yabancı kişilerce ele geçirilip mailinizi yönlendirip takip altına almış olabilirler. Böyle bir durumla karşılaştığınız vakit önce yönlendirilen adres veya adresleri kontrol edin eğer ki tanımadığınız adreslerse öncelikli olarak ivedilikle **yönlendirmeleri silin**. Daha sonrasında ise sırasıyla **cpanel şifrenizi** ve daha sonrada **maillerin şifrelerini** güvenliği yüksek seviyede olan karışık atamalar yapın. Tabiki bunlarla birlikte makinalarda virüs taraması yapıp kullandığınız aletlerin sistemsel olarak temiz olmasına dikkat edin.
+
+
+
+* [x] **Bu durumu örnekleyecek olursak; **
+
+[destek@witamin.net](/destek@witamin.net) olan bir mail adresimiz var ve [destek@rekare.net](/destek@rekare.net) mail atmak istiyorum yada o adresten mail alıyorum. Mail gönderimi yada alımı sonrasında mail kotanız dolu diye bir uyarı maili alıyorum ve adres olarakta [destek@promek.net](/destek@promek.net) adresinizin mail kotası dolmuştur diye dönüş almak gibi bir durumla karşılaşırsanız, bilin ki bu yönlendirmeden kaynaklanmaktadır. 
+
+
+
