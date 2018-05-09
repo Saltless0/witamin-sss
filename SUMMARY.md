@@ -44,4 +44,7 @@
 ## DNS
 
 * [DNS Kayıt Tiplerine Nereden Erişip Değiştirebilirim ?](dns/dns-kayit-tiplerine-nereden-erisip-degistirebilirim.md)
+  * Reverse Dns Hatası Nedir ?
+  * Reverse Dns Hatası Nedir ?
+* [Reverse Dns \(Ters Dns\) Hatası Nedir ?](dns/reverse-dns-ters-dns-hatasi-nedir.md)
 
