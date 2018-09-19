@@ -12,8 +12,6 @@ Bu durumda bizim yapabileceğimiz birşey yoktur. Problem tamamiyle karşı tara
 
 * **Mail atan kişinin hosting hizmetinde sıkıntı olduğu için mail atamayabilir.**
 
-
-
 * **Mail atan kişi imap kullanıp mail kotası dolduğu için mail atamayabilir.**
 
 

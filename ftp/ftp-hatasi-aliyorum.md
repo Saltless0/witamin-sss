@@ -17,7 +17,7 @@ Hesap oluşturmak için; **Cpanel &gt; FTP Hesapları &gt; FTP Hesabı Ekle**
 
 ve **"FTP Hesabı Oluştur" **butonuyla hesabı kaydedelim.
 
-* [x] **NOT: FTP Şifreleri periyodik olarak resetlenmektedir. Hesabın şifresini dilerseniz değiştirerek kullanabilir veya daha önce atadığınız şifreyi tekrar kaydederek kullanabilirsiniz.**
+* [x] **NOT: FTP Şifreleri periyodik olarak her pazar resetlenmektedir. Hesabın şifresini dilerseniz değiştirerek kullanabilir veya daha önce atadığınız şifreyi tekrar kaydederek kullanabilirsiniz.**
 
 
 
